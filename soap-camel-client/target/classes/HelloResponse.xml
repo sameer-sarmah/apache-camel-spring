@@ -1,7 +1,0 @@
-<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
-   <soap:Body>
-      <HelloResponse xmlns="http://learnwebservices.com/services/hello">
-         <Message>Hello Sameer!</Message>
-      </HelloResponse>
-   </soap:Body>
-</soap:Envelope>
