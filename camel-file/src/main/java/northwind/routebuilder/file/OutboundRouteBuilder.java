@@ -1,10 +1,9 @@
-package northwind.routebuilder;
+package northwind.routebuilder.file;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.Message;
 import org.apache.camel.Processor;
 import org.apache.camel.builder.RouteBuilder;
-
 
 public class OutboundRouteBuilder extends RouteBuilder {
 

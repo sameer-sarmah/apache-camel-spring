@@ -38,6 +38,8 @@
   <modules>
   	<module>camel-sftp</module>
   	<module>soap-camel-client</module>
+  	<module>http-camel-client</module>
+  	<module>camel-file</module>
   </modules>
   	<build>
 		<plugins>

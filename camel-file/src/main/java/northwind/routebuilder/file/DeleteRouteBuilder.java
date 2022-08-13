@@ -1,8 +1,8 @@
-package northwind.routebuilder;
+package northwind.routebuilder.file;
 
 import org.apache.camel.builder.RouteBuilder;
 
-import northwind.processor.FileDeleteProcessor;
+import northwind.processor.file.FileDeleteProcessor;
 
 
 public class DeleteRouteBuilder extends RouteBuilder {
