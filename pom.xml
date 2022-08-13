@@ -40,6 +40,7 @@
   	<module>soap-camel-client</module>
   	<module>http-camel-client</module>
   	<module>camel-file</module>
+  	<module>odatav4-camel-client</module>
   </modules>
   	<build>
 		<plugins>
